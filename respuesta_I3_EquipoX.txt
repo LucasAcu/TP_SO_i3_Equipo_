@@ -10,3 +10,5 @@ git push origin acuña
 a- Master queda con todo lo que se hizo en las ramas despues de los merge
 b- Beta pudo ver todos los cambios que se realizaron
 c-para hacer el merge en el punto 5 primero tuvimos que usar el comando git checkout main para irme al main, despues git pull para actualizar de ser necesario, luego git merge y luego git merge ogirin/(nombre de la rama)
+d-no necesariamente quedan con datos actualizados e-el problema es que se nos olvido poner el pull f-git clone https://github.com/<usuario>/TP_SO_i3Equipo.git, git checkout master, git pull origin master, git merge origin/gamma, git add datos.txt CPUGamma.txt CPUAlfa.txt CPUBeta.txt
+git commit -m, git push orin master
