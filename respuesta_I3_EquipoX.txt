@@ -1,0 +1,8 @@
+8- git pull
+git branch -r
+git checkout acuña
+echo Camila Devincenzi - 192.168.56.1 - La hora actual es: 13:17:39,67 >> beta.txt
+git status
+git add .
+git commit -m Agrego info ALFA
+git push origin acuña
