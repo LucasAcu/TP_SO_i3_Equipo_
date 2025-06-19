@@ -6,3 +6,7 @@ git status
 git add .
 git commit -m Agrego info ALFA
 git push origin acuña
+=======
+a- Master queda con todo lo que se hizo en las ramas despues de los merge
+b- Beta pudo ver todos los cambios que se realizaron
+c-para hacer el merge en el punto 5 primero tuvimos que usar el comando git checkout main para irme al main, despues git pull para actualizar de ser necesario, luego git merge y luego git merge ogirin/(nombre de la rama)
