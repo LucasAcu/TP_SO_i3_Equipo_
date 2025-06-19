@@ -1,0 +1,101 @@
+Nombre de host:                            DESKTOP-3AK4RNL
+Nombre del sistema operativo:              Microsoft Windows 10 Pro
+Versión del sistema operativo:             10.0.19045 N/D Compilación 19045
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuración del sistema operativo:       Estación de trabajo independiente
+Tipo de compilación del sistema operativo: Multiprocessor Free
+Propiedad de:                              Camilar
+Organización registrada:                   N/D
+Id. del producto:                          00330-80000-00000-AA897
+Fecha de instalación original:             24/2/2025, 23:05:56
+Tiempo de arranque del sistema:            19/6/2025, 01:38:24
+Fabricante del sistema:                    LENOVO
+Modelo el sistema:                         10B4A07JAC
+Tipo de sistema:                           x64-based PC
+Procesador(es):                            1 Procesadores instalados.
+                                           [01]: Intel64 Family 6 Model 60 Stepping 3 GenuineIntel ~3201 Mhz
+Versión del BIOS:                          LENOVO FCKT99AUS, 18/11/2020
+Directorio de Windows:                     C:\WINDOWS
+Directorio de sistema:                     C:\WINDOWS\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume1
+Configuración regional del sistema:        es-mx;Español (México)
+Idioma de entrada:                         es-mx;Español (México)
+Zona horaria:                              (UTC-03:00) Ciudad de Buenos Aires
+Cantidad total de memoria física:          12.235 MB
+Memoria física disponible:                 980 MB
+Memoria virtual: tamaño máximo:            19.915 MB
+Memoria virtual: disponible:               4.728 MB
+Memoria virtual: en uso:                   15.187 MB
+Ubicación(es) de archivo de paginación:    C:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesión:              \DESKTOP-3AK4RNL
+Revisión(es):                              46 revisión(es) instaladas.
+                                           [01]: KB5056578
+                                           [02]: KB5028013
+                                           [03]: KB5000736
+                                           [04]: KB5011048
+                                           [05]: KB5011056
+                                           [06]: KB5012170
+                                           [07]: KB5015684
+                                           [08]: KB5060533
+                                           [09]: KB5006753
+                                           [10]: KB5007273
+                                           [11]: KB5011352
+                                           [12]: KB5011651
+                                           [13]: KB5014032
+                                           [14]: KB5014035
+                                           [15]: KB5014671
+                                           [16]: KB5015895
+                                           [17]: KB5016705
+                                           [18]: KB5018506
+                                           [19]: KB5020372
+                                           [20]: KB5022924
+                                           [21]: KB5023794
+                                           [22]: KB5025315
+                                           [23]: KB5026879
+                                           [24]: KB5028318
+                                           [25]: KB5028380
+                                           [26]: KB5029709
+                                           [27]: KB5031539
+                                           [28]: KB5032392
+                                           [29]: KB5032907
+                                           [30]: KB5034224
+                                           [31]: KB5036447
+                                           [32]: KB5037018
+                                           [33]: KB5037240
+                                           [34]: KB5037995
+                                           [35]: KB5039336
+                                           [36]: KB5041579
+                                           [37]: KB5043935
+                                           [38]: KB5043130
+                                           [39]: KB5046823
+                                           [40]: KB5050388
+                                           [41]: KB5050111
+                                           [42]: KB5052916
+                                           [43]: KB5054682
+                                           [44]: KB5058526
+                                           [45]: KB5059504
+                                           [46]: KB5003742
+Tarjeta(s) de red:                         2 Tarjetas de interfaz de red instaladas.
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nombre de conexión: Ethernet
+                                                 DHCP habilitado:    Sí
+                                                 Servidor DHCP:      192.168.0.1
+                                                 Direcciones IP
+                                                 [01]: 192.168.0.162
+                                                 [02]: fe80::e1e6:411:e9f0:7315
+                                                 [03]: fdaa:bbcc:ddee:0:e05b:7eb2:ba8e:1c2b
+                                                 [04]: 2800:810:52d:206:e05b:7eb2:ba8e:1c2b
+                                                 [05]: fdaa:bbcc:ddee:0:861f:90d7:6c67:fff2
+                                                 [06]: 2800:810:52d:206:c014:36b9:2e89:a20c
+                                                 [07]: 2800:810:52d:206:1049:2399:877b:e7c7
+                                           [02]: VirtualBox Host-Only Ethernet Adapter
+                                                 Nombre de conexión: Ethernet 2
+                                                 DHCP habilitado:    No
+                                                 Direcciones IP
+                                                 [01]: 192.168.56.1
+                                                 [02]: fe80::8be9:3537:e7e2:6d41
+Requisitos Hyper-V:                        Extensiones de modo de monitor de VM: Sí
+                                           Se habilitó la virtualización en el firmware: Sí
+                                           Traducción de direcciones de segundo nivel: Sí
+                                           La prevención de ejecución de datos está disponible: Sí
